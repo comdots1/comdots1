@@ -1,0 +1,4 @@
+- 👋 안녕하세요, 저는 컴닷이에요
+- 👀 저는 디스코드 봇 개발에 관심이 있어요!
+- 🌱 저는 Python, Kotlin, JavaScript 등을 주 언어로 사용하고 있어요.
+- 📫 문의는 admin@comdots.xyz로 부탁드려요!
