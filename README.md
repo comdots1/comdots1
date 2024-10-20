@@ -7,7 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comdots1)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stec
+# Stec
 ### OS
 ![os_mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![os_ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
