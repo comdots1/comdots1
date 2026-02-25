@@ -1,8 +1,8 @@
 # 요약
-- 👋 안녕하세요, 저는 컴닷이에요
+- 👋 안녕하세요, 저는 무니예요
 - 👀 저는 디스코드 봇 개발에 관심이 있어요!
 - 🌱 저는 Python, Kotlin, JavaScript 등을 주 언어로 사용하고 있어요.
-- 📫 문의는 me@comdots.uk로 부탁드려요!
+- 📫 문의는 me@mooni.uk로 부탁드려요!
 - 👏🏻 [포트폴리오 사이트](https://mooni.uk/)도 한번 씩 들러주세요!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comdots1)](https://github.com/anuraghazra/github-readme-stats)
