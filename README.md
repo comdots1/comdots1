@@ -3,7 +3,7 @@
 - 👀 저는 디스코드 봇 개발에 관심이 있어요!
 - 🌱 저는 Python, Kotlin, JavaScript 등을 주 언어로 사용하고 있어요.
 - 📫 문의는 me@comdots.uk로 부탁드려요!
-- 👏🏻 [포트폴리오 사이트](https://comdots.uk/)도 한번 씩 들러주세요!
+- 👏🏻 [포트폴리오 사이트](https://mooni.uk/)도 한번 씩 들러주세요!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comdots1)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -36,12 +36,6 @@
 ![lang_css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ### WorkSpace
 ![work_pc.main](https://img.shields.io/badge/Apple-MacBook_Air_M2-999999?style=for-the-badge&logo=apple&logoColor=white)
-<br>
-![work_pc.sub.cpu](https://img.shields.io/badge/Intel-Pentium_G4400-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![work.pc.sub.gpu](https://img.shields.io/badge/NVIDIA-GTX_750-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-<br>
-![work_mouse](https://img.shields.io/badge/Logitech-G102-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![work_keyboard](https://img.shields.io/badge/Aula-F87_Pro-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ### Etc
 ![etc_pc](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![etc_cf](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
